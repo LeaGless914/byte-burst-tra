@@ -1,0 +1,26 @@
+{
+  "name": "byte-burst-tra",
+  "description": "byte-burst-tra",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/LeaGless914",
+  "repository": {
+    "url": "https://github.com/LeaGless914/byte-burst-tra"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "byte",
+    "burst",
+    "project"
+  ],
+  "author": "LeaGless914",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
